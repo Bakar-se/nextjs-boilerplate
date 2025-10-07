@@ -360,5 +360,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Happy coding! 🚀**
-#   n e x t j s - b o i l e r p l a t e  
- 
+#
